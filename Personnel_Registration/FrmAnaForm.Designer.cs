@@ -332,7 +332,7 @@
             this.groupBox2.Controls.Add(this.btnListele);
             this.groupBox2.Location = new System.Drawing.Point(391, 12);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(373, 322);
+            this.groupBox2.Size = new System.Drawing.Size(344, 322);
             this.groupBox2.TabIndex = 8;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "İşlemler";
